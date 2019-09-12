@@ -1,3 +1,4 @@
 ---
-layout: default
+layout: elegant
 ---
+Welcome to Jagwahhh
